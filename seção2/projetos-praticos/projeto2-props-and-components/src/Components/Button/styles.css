@@ -1,0 +1,14 @@
+button{
+  width: 100%;
+  min-width: 290px;
+  height: 45px;
+  padding: 5px;
+  margin-top: 1.5rem;
+
+  font-size: 18px;
+  background-color: rgb(65, 65, 235);
+  color:#fff;
+  border: solid 1px #eee;
+  border-radius: 3px;
+
+}

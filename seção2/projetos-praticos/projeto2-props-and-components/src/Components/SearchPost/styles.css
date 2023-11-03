@@ -1,0 +1,23 @@
+.searchPosts{
+  width: 100%;
+  min-width: 290px;
+  margin-bottom: 1.5rem;
+
+}
+
+.searchPosts h2{
+  width: 100%;
+  min-width: 290px;
+  margin-bottom: 0.75rem;
+
+}
+
+.searchPosts input[type=search]{
+  min-width: 290px;
+  height: 45px;
+  
+  padding: 0.5rem;
+  font-size: 25px;
+  color:rgb(20, 20, 20);
+  outline-style: none;
+}

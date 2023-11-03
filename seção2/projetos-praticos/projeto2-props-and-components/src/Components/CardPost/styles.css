@@ -1,0 +1,21 @@
+.card-post{
+  border:solid 1px rgb(170, 164, 164);
+  border-radius: 3px;
+  background-color:#FFf;
+
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+
+  transition: transform 100ms;
+  
+}
+.card-post:hover{
+  transform: scale(1.05);
+}
+
+.card-post img{
+  max-width: 100%;
+}
+
+.card-post .content{
+  padding: 10px;
+}
